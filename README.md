@@ -8,7 +8,7 @@
 * 🏛 **Education:** Software Engineering at **TUIT Samarkand Branch** (2022 — 2026)
 * 🏫 **Training:** Backend Development Student at **School 21 (Samarkand)**
 * 🆔 **School 21 Nickname:** `benedarr`
-* 💼 **Work:** Available for **Freelance** projects
+* 💼 **Work:** Available for **Freelance** projects!
 
 ---
 
@@ -16,14 +16,16 @@
 * **Uzbek:** Native 🇺🇿
 * **English:** Proficient (**IELTS 7.0** 🏆) 🇬🇧
 
+---
 
 ### 🛠 Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | `React.js` ⚛️, `JavaScript (ES6+)`, `HTML5`, `CSS3` |
-| **Styling** | `Tailwind CSS` 🌊, `Sass/SCSS` 🎨 |
-| **Design** | `Figma` 🖌️ |
+| **Libraries** | `React.js` ⚛️ |
+| **Languages** | `JavaScript (ES6+)`, `HTML5` |
+| **Styling** | `Tailwind CSS` 🌊, `Sass/SCSS` 🎨, `CSS3` |
+| **Design** | `Figma` 🖌️, `Canva` 🎨 |
 | **Backend** | Mastering server-side technologies at **School 21** ⚙️ |
 
 ---
@@ -33,10 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=benedarr&show_icons=true&theme=tokyonight&count_private=true" alt="Ahadbek's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedarr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> 💻✨
 </p>
