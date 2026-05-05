@@ -8,7 +8,7 @@
 * 🏛 **Education:** Software Engineering at **TUIT Samarkand Branch** (2022 — 2026)
 * 🏫 **Training:** Backend Development Student at **School 21 (Samarkand)**
 * 🆔 **School 21 Nickname:** `benedarr`
-* 💼 **Work:** Available for **Freelance** projects!
+* 💼 **Work:** Available for **Freelance** projects
 
 ---
 
