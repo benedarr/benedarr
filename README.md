@@ -16,7 +16,6 @@
 * **Uzbek:** Native 🇺🇿
 * **English:** Proficient (**IELTS 7.0** 🏆) 🇬🇧
 
----
 
 ### 🛠 Tech Stack
 
